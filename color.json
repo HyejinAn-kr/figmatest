@@ -4,7 +4,25 @@
       "primary": {
         "value": "#ff0000",
         "type": "color"
+      },
+      "testpink": {
+        "value": "#d041d9",
+        "type": "color"
       }
+    },
+    "testSize": {
+      "value": "13",
+      "type": "sizing"
+    },
+    "testRadius": {
+      "value": "25",
+      "type": "borderRadius"
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
   }
 }
