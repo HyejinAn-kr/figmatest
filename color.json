@@ -6,16 +6,16 @@
         "type": "color"
       },
       "testpink": {
-        "value": "#d041d9",
+        "value": "#b5cdb1",
         "type": "color"
       }
     },
     "testSize": {
-      "value": "13",
+      "value": "90",
       "type": "sizing"
     },
     "testRadius": {
-      "value": "25",
+      "value": "50",
       "type": "borderRadius"
     }
   },
